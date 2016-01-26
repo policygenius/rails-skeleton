@@ -1,0 +1,11 @@
+insurance quote form
+
+<%= form_tag('/quotes', method: :post) %>
+<%= label_tag "Height" %>
+<%= text_field_tag :height %>
+<%= label_tag "Weight" %>
+<%= text_field_tag :weight %>
+<%= label_tag "Gender" %>
+<%= radio_button_tag 'gender', 'Male' %>
+<%= radio_button_tag 'gender', 'Female' %>
+<%= submit_tag "Submit" %>
