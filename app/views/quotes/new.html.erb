@@ -1,0 +1,11 @@
+<%= form_tag quotes_path do %>
+	
+	<%= label_tag :age, "Age" %>
+	<%= number_field_tag :age %>
+	
+	<%= label_tag :gender, "Gender" %>
+	<%= select_tag :gender, options_for_select(%w[M F]) %>
+	
+	<%= submit_tag "Get Quotes" %>
+
+<% end %>
