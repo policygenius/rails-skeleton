@@ -1,10 +1,18 @@
 class ActuaryClient
-  BASE_URL = 'actuary-development.policygenius.com/policies?date_of_birth=1980-01-21&gender=male&health_profile[currently_uses_tobacco]=false&health_profile[height_feet]=5&health_profile[height_inches]=8&health_profile[history_of_tobacco_use]=false&health_profile[weight]=180&state_code=TX'
   def self.fetch_policies(term_in_years:, coverage_amount:)
-    Rails.cache.fetch([term_in_years, coverage_amount]) do
-      JSON
-        .parse(RestClient.get("#{BASE_URL}&policy_profile[coverage_amount]=#{coverage_amount}&policy_profile[term_in_years]=#{term_in_years}"))
-        .fetch('policies')
+    hash = YAML.load_file(Rails.root.join('config', 'policies.yml'))
+    term = nil
+
+    begin
+      term = hash.fetch(term_in_years);
+    rescue
+      fail "Invalid value for term_in_years: #{term_in_years} (#{term_in_years.class.name})"
+    end
+
+    begin
+      term.fetch(coverage_amount);
+    rescue
+      fail "Invalid value for coverage_amount: #{coverage_amount} (#{coverage_amount.class.name})}"
     end
   end
 end
