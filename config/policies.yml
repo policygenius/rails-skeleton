@@ -1,0 +1,4392 @@
+---
+10:
+  100000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 11.07
+    annual_premium: 128.0
+    name: Select-a-Term - 10 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 14.44
+    annual_premium: 165.0
+    name: Term Essential 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 100000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 9.72
+    annual_premium: 113.0
+    name: Trendsetter Super 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 100000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 9.19
+    annual_premium: 104.99
+    name: OPTerm 10 - 10 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 10.46
+    annual_premium: 119.5
+    name: Term Life Answers 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 7.62
+    annual_premium: 88.58
+    name: Custom Choice UL - 10 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 10.11
+    annual_premium: 116.21
+    name: T-10/10 - 10 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 100000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 10.41
+    annual_premium: 117.0
+    name: 10-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  250000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 12.67
+    annual_premium: 146.5
+    name: Select-a-Term - 10 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 19.91
+    annual_premium: 227.5
+    name: Term Essential 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 250000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 14.41
+    annual_premium: 167.5
+    name: Trendsetter Super 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 250000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 15.7
+    annual_premium: 182.5
+    name: Trendsetter LB 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 250000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 16.81
+    annual_premium: 192.0
+    name: LifeElement (R) Level Term 10 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 250000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 13.78
+    annual_premium: 157.49
+    name: OPTerm 10 - 10 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 12.25
+    annual_premium: 140.0
+    name: Term Life Answers 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 12.44
+    annual_premium: 142.14
+    name: 10-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 250000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 10.4
+    annual_premium: 120.89
+    name: Custom Choice UL - 10 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 15.329999999999998
+    annual_premium: 176.25
+    name: T-10/10 - 10 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 250000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 13.8
+    annual_premium: 155.0
+    name: 10-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 11.05
+    annual_premium: 132.5
+    name: Pacific PRIME Term 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 250000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  500000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 18.94
+    annual_premium: 219.0
+    name: Select-a-Term - 10 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 32.38
+    annual_premium: 370.0
+    name: Term Essential 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 22.36
+    annual_premium: 260.0
+    name: Trendsetter Super 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 24.51
+    annual_premium: 285.0
+    name: Trendsetter LB 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 22.32
+    annual_premium: 255.0
+    name: LifeElement (R) Level Term 10 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 20.56
+    annual_premium: 234.99
+    name: OPTerm 10 - 10 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 15.97
+    annual_premium: 182.5
+    name: Term Life Answers 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 18.31
+    annual_premium: 209.28
+    name: 10-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 15.61
+    annual_premium: 181.49
+    name: Custom Choice UL - 10 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 21.06
+    annual_premium: 242.05
+    name: T-10/10 - 10 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 20.92
+    annual_premium: 235.0
+    name: 10-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 17.16
+    annual_premium: 195.0
+    name: Advantage Elite Select Life - 10 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 16.68
+    annual_premium: 200.0
+    name: Pacific PRIME Term 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 500000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  1000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 29.760000000000005
+    annual_premium: 344.0
+    name: Select-a-Term - 10 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 39.81
+    annual_premium: 455.0
+    name: Term Essential 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 38.7
+    annual_premium: 450.0
+    name: Trendsetter Super 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 46.44
+    annual_premium: 540.0
+    name: Trendsetter LB 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 35.97
+    annual_premium: 411.0
+    name: LifeElement (R) Level Term 10 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 34.12
+    annual_premium: 389.99
+    name: OPTerm 10 - 10 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 25.59
+    annual_premium: 292.5
+    name: Term Life Answers 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 25.49
+    annual_premium: 291.27
+    name: 10-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 24.69
+    annual_premium: 287.15
+    name: Custom Choice UL - 10 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 33.5
+    annual_premium: 385.0
+    name: T-10/10 - 10 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 31.6
+    annual_premium: 355.0
+    name: 10-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 25.96
+    annual_premium: 295.0
+    name: Advantage Elite Select Life - 10 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 26.26
+    annual_premium: 315.0
+    name: Pacific PRIME Term 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: brighthouse
+    carrier_name: Brighthouse Life Insurance Company
+    monthly_premium: 30.51
+    annual_premium: 339.0
+    name: Guaranteed Level Term 10
+    return_of_premium: false
+    underwriting_class: preferred
+    health_category: Elite Nonsmoker
+    coverage_amount: 1000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  5000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 126.64
+    annual_premium: 1464.0
+    name: Select-a-Term - 10 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 169.31
+    annual_premium: 1935.0
+    name: Term Essential 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 191.78
+    annual_premium: 2230.0
+    name: Trendsetter Super 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 148.32
+    annual_premium: 1695.0
+    name: LifeElement (R) Level Term 10 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 149.62
+    annual_premium: 1709.95
+    name: OPTerm 10 - 10 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 106.09
+    annual_premium: 1212.5
+    name: Term Life Answers 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 101.18
+    annual_premium: 1156.35
+    name: 10-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 123.45
+    annual_premium: 1435.75
+    name: Custom Choice UL - 10 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 146.6
+    annual_premium: 1685.0
+    name: T-10/10 - 10 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 131.28
+    annual_premium: 1475.0
+    name: 10-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 122.76
+    annual_premium: 1395.0
+    name: Advantage Elite Select Life - 10 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 109.59
+    annual_premium: 1315.0
+    name: Pacific PRIME Term 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: brighthouse
+    carrier_name: Brighthouse Life Insurance Company
+    monthly_premium: 127.71
+    annual_premium: 1419.0
+    name: Guaranteed Level Term 10
+    return_of_premium: false
+    underwriting_class: preferred
+    health_category: Elite Nonsmoker
+    coverage_amount: 5000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  10000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 247.74
+    annual_premium: 2864.0
+    name: Select-a-Term - 10 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 331.19
+    annual_premium: 3785.0
+    name: Term Essential 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 380.98
+    annual_premium: 4430.0
+    name: Trendsetter Super 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 389.58
+    annual_premium: 4530.0
+    name: Trendsetter Super 10  (over 10m)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 288.76
+    annual_premium: 3300.0
+    name: LifeElement (R) Level Term 10 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 293.99
+    annual_premium: 3359.9
+    name: OPTerm 10 - 10 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 206.72
+    annual_premium: 2362.5
+    name: Term Life Answers 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 195.8
+    annual_premium: 2237.7
+    name: 10-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 246.9
+    annual_premium: 2871.5
+    name: Custom Choice UL - 10 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 287.97
+    annual_premium: 3310.0
+    name: T-10/10 - 10 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 255.88
+    annual_premium: 2875.0
+    name: 10-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 213.75
+    annual_premium: 2565.0
+    name: Pacific PRIME Term 10
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: brighthouse
+    carrier_name: Brighthouse Life Insurance Company
+    monthly_premium: 249.21
+    annual_premium: 2769.0
+    name: Guaranteed Level Term 10
+    return_of_premium: false
+    underwriting_class: preferred
+    health_category: Elite Nonsmoker
+    coverage_amount: 10000000
+    term_in_years: 10
+    table_rating: 0
+    accelerated_underwriting: false
+15:
+  100000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 11.16
+    annual_premium: 129.0
+    name: Select-a-Term - 15 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 15.23
+    annual_premium: 174.0
+    name: Term Essential 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 100000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 64.23
+    annual_premium: 771.0
+    name: PruLife Return of Premium Term 15
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 100000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 10.32
+    annual_premium: 120.0
+    name: Trendsetter Super 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 100000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 9.45
+    annual_premium: 107.9
+    name: TermAccel (R) Level Term 15  (eApp ONLY)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 100000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 9.19
+    annual_premium: 104.99
+    name: OPTerm 15 - 15 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 11.16
+    annual_premium: 127.5
+    name: Term Life Answers 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 8.39
+    annual_premium: 97.48
+    name: Custom Choice UL - 15 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 10.2
+    annual_premium: 117.26
+    name: T-15/15 - 15 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 100000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  250000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 13.32
+    annual_premium: 154.0
+    name: Select-a-Term - 15 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 20.78
+    annual_premium: 237.5
+    name: Term Essential 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 101.09
+    annual_premium: 1213.5
+    name: PruLife Return of Premium Term 15
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 16.56
+    annual_premium: 192.5
+    name: Trendsetter Super 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 18.06
+    annual_premium: 210.0
+    name: Trendsetter LB 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 12.02
+    annual_premium: 137.25
+    name: TermAccel (R) Level Term 15  (eApp ONLY)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 17.16
+    annual_premium: 196.0
+    name: LifeElement (R) Level Term 15 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 13.78
+    annual_premium: 157.49
+    name: OPTerm 15 - 15 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 14.22
+    annual_premium: 162.5
+    name: Term Life Answers 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 13.33
+    annual_premium: 152.37
+    name: 15-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 11.56
+    annual_premium: 134.34
+    name: Custom Choice UL - 15 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 15.559999999999999
+    annual_premium: 178.88
+    name: T-15/15 - 15 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 11.88
+    annual_premium: 142.5
+    name: Pacific PRIME Term 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 250000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  500000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 19.81
+    annual_premium: 229.0
+    name: Select-a-Term - 15 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 34.13
+    annual_premium: 390.0
+    name: Term Essential 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 192.43
+    annual_premium: 2310.0
+    name: PruLife Return of Premium Term 15
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 26.23
+    annual_premium: 305.0
+    name: Trendsetter Super 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 29.67
+    annual_premium: 345.0
+    name: Trendsetter LB 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 17.64
+    annual_premium: 201.5
+    name: TermAccel (R) Level Term 15  (eApp ONLY)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 24.33
+    annual_premium: 278.0
+    name: LifeElement (R) Level Term 15 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 21.35
+    annual_premium: 243.99
+    name: OPTerm 15 - 15 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 22.09
+    annual_premium: 252.5
+    name: Term Life Answers 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 20.1
+    annual_premium: 229.74
+    name: 15-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 17.56
+    annual_premium: 204.21
+    name: Custom Choice UL - 15 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 22.4
+    annual_premium: 257.49
+    name: T-15/15 - 15 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 22.88
+    annual_premium: 260.0
+    name: Advantage Elite Select Life - 15 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 18.34
+    annual_premium: 220.0
+    name: Pacific PRIME Term 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 500000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  1000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 34.08
+    annual_premium: 394.0
+    name: Select-a-Term - 15 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 54.69
+    annual_premium: 625.0
+    name: Term Essential 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 258.91
+    annual_premium: 3108.0
+    name: PruLife Return of Premium Term 15
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 46.44
+    annual_premium: 540.0
+    name: Trendsetter Super 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 56.76
+    annual_premium: 660.0
+    name: Trendsetter LB 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 39.73
+    annual_premium: 454.0
+    name: LifeElement (R) Level Term 15 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 37.45
+    annual_premium: 427.98
+    name: OPTerm 15 - 15 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 38.72
+    annual_premium: 442.5
+    name: Term Life Answers 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 31.78
+    annual_premium: 363.22
+    name: 15-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 29.0
+    annual_premium: 337.27
+    name: Custom Choice UL - 15 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 35.67
+    annual_premium: 410.0
+    name: T-15/15 - 15 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 37.4
+    annual_premium: 425.0
+    name: Advantage Elite Select Life - 15 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 29.59
+    annual_premium: 355.0
+    name: Pacific PRIME Term 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: brighthouse
+    carrier_name: Brighthouse Life Insurance Company
+    monthly_premium: 42.21
+    annual_premium: 469.0
+    name: Guaranteed Level Term 15
+    return_of_premium: false
+    underwriting_class: preferred
+    health_category: Elite Nonsmoker
+    coverage_amount: 1000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  5000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 148.26
+    annual_premium: 1714.0
+    name: Select-a-Term - 15 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 243.69
+    annual_premium: 2785.0
+    name: Term Essential 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 1294.49
+    annual_premium: 15540.0
+    name: PruLife Return of Premium Term 15
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 230.48
+    annual_premium: 2680.0
+    name: Trendsetter Super 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 167.13
+    annual_premium: 1910.0
+    name: LifeElement (R) Level Term 15 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 166.24
+    annual_premium: 1899.9
+    name: OPTerm 15 - 15 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 171.72
+    annual_premium: 1962.5
+    name: Term Life Answers 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 132.66
+    annual_premium: 1516.1
+    name: 15-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 145.0
+    annual_premium: 1686.35
+    name: Custom Choice UL - 15 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 157.47
+    annual_premium: 1810.0
+    name: T-15/15 - 15 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 162.36
+    annual_premium: 1845.0
+    name: Advantage Elite Select Life - 15 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 126.25
+    annual_premium: 1515.0
+    name: Pacific PRIME Term 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: brighthouse
+    carrier_name: Brighthouse Life Insurance Company
+    monthly_premium: 186.21
+    annual_premium: 2069.0
+    name: Guaranteed Level Term 15
+    return_of_premium: false
+    underwriting_class: preferred
+    health_category: Elite Nonsmoker
+    coverage_amount: 5000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  10000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 290.99
+    annual_premium: 3364.0
+    name: Select-a-Term - 15 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 479.94
+    annual_premium: 5485.0
+    name: Term Essential 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 2588.97
+    annual_premium: 31080.0
+    name: PruLife Return of Premium Term 15
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 458.38
+    annual_premium: 5330.0
+    name: Trendsetter Super 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 475.58
+    annual_premium: 5530.0
+    name: Trendsetter Super 15  (over 10m)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 326.38
+    annual_premium: 3730.0
+    name: LifeElement (R) Level Term 15 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 327.23
+    annual_premium: 3739.8
+    name: OPTerm 15 - 15 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 337.97
+    annual_premium: 3862.5
+    name: Term Life Answers 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 258.76
+    annual_premium: 2957.2
+    name: 15-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 290.0
+    annual_premium: 3372.7
+    name: Custom Choice UL - 15 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 309.72
+    annual_premium: 3560.0
+    name: T-15/15 - 15 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 316.36
+    annual_premium: 3595.0
+    name: Advantage Elite Select Life - 15 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 247.08
+    annual_premium: 2965.0
+    name: Pacific PRIME Term 15
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: brighthouse
+    carrier_name: Brighthouse Life Insurance Company
+    monthly_premium: 366.21
+    annual_premium: 4069.0
+    name: Guaranteed Level Term 15
+    return_of_premium: false
+    underwriting_class: preferred
+    health_category: Elite Nonsmoker
+    coverage_amount: 10000000
+    term_in_years: 15
+    table_rating: 0
+    accelerated_underwriting: false
+20:
+  100000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 11.85
+    annual_premium: 137.0
+    name: Select-a-Term - 20 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 46.06
+    annual_premium: 553.0
+    name: ROP Select-a-Term - 20 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 16.01
+    annual_premium: 183.0
+    name: Term Essential 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 100000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 40.31
+    annual_premium: 483.84
+    name: PruLife Return of Premium Term 20
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 100000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 11.44
+    annual_premium: 133.0
+    name: Trendsetter Super 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 100000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 10.77
+    annual_premium: 123.0
+    name: TermAccel (R) Level Term 20  (eApp ONLY)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 100000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 10.11
+    annual_premium: 115.57
+    name: OPTerm 20 - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Pfd Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 12.82
+    annual_premium: 146.5
+    name: Term Life Answers 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 9.94
+    annual_premium: 115.58
+    name: Custom Choice No Lapse UL - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 11.57
+    annual_premium: 133.01
+    name: T-20/20 - 20 Year Termdb
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 100000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 13.35
+    annual_premium: 150.0
+    name: 20-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  250000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 15.7
+    annual_premium: 181.5
+    name: Select-a-Term - 20 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 70.81
+    annual_premium: 850.0
+    name: ROP Select-a-Term - 20 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 22.09
+    annual_premium: 252.5
+    name: Term Essential 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 62.78
+    annual_premium: 753.6
+    name: PruLife Return of Premium Term 20
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 19.14
+    annual_premium: 222.5
+    name: Trendsetter Super 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 21.5
+    annual_premium: 250.0
+    name: Trendsetter LB 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 15.32
+    annual_premium: 175.0
+    name: TermAccel (R) Level Term 20  (eApp ONLY)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 22.87
+    annual_premium: 261.25
+    name: LifeElement (R) Level Term 20 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 15.31
+    annual_premium: 174.99
+    name: OPTerm 20 - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Pfd Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 16.63
+    annual_premium: 190.0
+    name: Term Life Answers 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 16.02
+    annual_premium: 183.08
+    name: 20-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 15.46
+    annual_premium: 179.76
+    name: Custom Choice No Lapse UL - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 18.07
+    annual_premium: 207.75
+    name: T-20/20 - 20 Year Termdb
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 18.91
+    annual_premium: 212.5
+    name: 20-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 14.38
+    annual_premium: 172.5
+    name: Pacific PRIME Term 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 250000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  500000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 25.0
+    annual_premium: 289.0
+    name: Select-a-Term - 20 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 124.12
+    annual_premium: 1490.0
+    name: ROP Select-a-Term - 20 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 36.75
+    annual_premium: 420.0
+    name: Term Essential 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 119.7
+    annual_premium: 1436.8
+    name: PruLife Return of Premium Term 20
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 31.82
+    annual_premium: 370.0
+    name: Trendsetter Super 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 36.12
+    annual_premium: 420.0
+    name: Trendsetter LB 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 24.25
+    annual_premium: 277.0
+    name: TermAccel (R) Level Term 20  (eApp ONLY)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 34.35
+    annual_premium: 392.5
+    name: LifeElement (R) Level Term 20 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 25.37
+    annual_premium: 289.98
+    name: OPTerm 20 - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Pfd Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 26.03
+    annual_premium: 297.5
+    name: Term Life Answers 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 25.48
+    annual_premium: 291.16
+    name: 20-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 24.32
+    annual_premium: 282.86
+    name: Custom Choice No Lapse UL - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 28.65
+    annual_premium: 329.27
+    name: T-20/20 - 20 Year Termdb
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 31.15
+    annual_premium: 350.0
+    name: 20-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 27.72
+    annual_premium: 315.0
+    name: Advantage Elite Select Life - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 23.34
+    annual_premium: 280.0
+    name: Pacific PRIME Term 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 500000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  1000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 42.73
+    annual_premium: 494.0
+    name: Select-a-Term - 20 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 248.23
+    annual_premium: 2980.0
+    name: ROP Select-a-Term - 20 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 63.44
+    annual_premium: 725.0
+    name: Term Essential 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 193.0
+    annual_premium: 2316.8
+    name: PruLife Return of Premium Term 20
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 57.62
+    annual_premium: 670.0
+    name: Trendsetter Super 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 69.66
+    annual_premium: 810.0
+    name: Trendsetter LB 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 60.82
+    annual_premium: 695.0
+    name: LifeElement (R) Level Term 20 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 45.5
+    annual_premium: 519.96
+    name: OPTerm 20 - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Pfd Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 45.72
+    annual_premium: 522.5
+    name: Term Life Answers 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 43.83
+    annual_premium: 500.94
+    name: 20-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 42.39
+    annual_premium: 492.93
+    name: Custom Choice No Lapse UL - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 43.85
+    annual_premium: 503.99
+    name: T-20/20 - 20 Year Termdb
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 54.74
+    annual_premium: 615.0
+    name: 20-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 47.08
+    annual_premium: 535.0
+    name: Advantage Elite Select Life - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 40.43
+    annual_premium: 485.0
+    name: Pacific PRIME Term 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: brighthouse
+    carrier_name: Brighthouse Life Insurance Company
+    monthly_premium: 57.51
+    annual_premium: 639.0
+    name: Guaranteed Level Term 20
+    return_of_premium: false
+    underwriting_class: preferred
+    health_category: Elite Nonsmoker
+    coverage_amount: 1000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  5000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 191.51
+    annual_premium: 2214.0
+    name: Select-a-Term - 20 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 1241.17
+    annual_premium: 14900.0
+    name: ROP Select-a-Term - 20 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 287.44
+    annual_premium: 3285.0
+    name: Term Essential 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 964.96
+    annual_premium: 11584.0
+    name: PruLife Return of Premium Term 20
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 282.08
+    annual_premium: 3280.0
+    name: Trendsetter Super 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 272.57
+    annual_premium: 3115.0
+    name: LifeElement (R) Level Term 20 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 206.48
+    annual_premium: 2359.8
+    name: OPTerm 20 - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Pfd Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 206.72
+    annual_premium: 2362.5
+    name: Term Life Answers 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 192.91
+    annual_premium: 2204.7
+    name: 20-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 211.95
+    annual_premium: 2464.65
+    name: Custom Choice No Lapse UL - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 198.36
+    annual_premium: 2279.95
+    name: T-20/20 - 20 Year Termdb
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 246.98
+    annual_premium: 2775.0
+    name: 20-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 223.96
+    annual_premium: 2545.0
+    name: Advantage Elite Select Life - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 180.42
+    annual_premium: 2165.0
+    name: Pacific PRIME Term 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: brighthouse
+    carrier_name: Brighthouse Life Insurance Company
+    monthly_premium: 262.71
+    annual_premium: 2919.0
+    name: Guaranteed Level Term 20
+    return_of_premium: false
+    underwriting_class: preferred
+    health_category: Elite Nonsmoker
+    coverage_amount: 5000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  10000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 377.49
+    annual_premium: 4364.0
+    name: Select-a-Term - 20 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 2482.34
+    annual_premium: 29800.0
+    name: ROP Select-a-Term - 20 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 567.44
+    annual_premium: 6485.0
+    name: Term Essential 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 1929.9
+    annual_premium: 23168.0
+    name: PruLife Return of Premium Term 20
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 561.58
+    annual_premium: 6530.0
+    name: Trendsetter Super 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 587.38
+    annual_premium: 6830.0
+    name: Trendsetter Super 20  (over 10m)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 537.26
+    annual_premium: 6140.0
+    name: LifeElement (R) Level Term 20 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 407.72
+    annual_premium: 4659.6
+    name: OPTerm 20 - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Pfd Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 407.97
+    annual_premium: 4662.5
+    name: Term Life Answers 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 379.26
+    annual_premium: 4334.4
+    name: 20-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 423.9
+    annual_premium: 4929.3
+    name: Custom Choice No Lapse UL - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 391.49
+    annual_premium: 4499.9
+    name: T-20/20 - 20 Year Termdb
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 487.28
+    annual_premium: 5475.0
+    name: 20-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 439.56
+    annual_premium: 4995.0
+    name: Advantage Elite Select Life - 20 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: pacific-life
+    carrier_name: Pacific Life Insurance Company
+    monthly_premium: 355.41
+    annual_premium: 4265.0
+    name: Pacific PRIME Term 20
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred NonTobacco
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: brighthouse
+    carrier_name: Brighthouse Life Insurance Company
+    monthly_premium: 519.21
+    annual_premium: 5769.0
+    name: Guaranteed Level Term 20
+    return_of_premium: false
+    underwriting_class: preferred
+    health_category: Elite Nonsmoker
+    coverage_amount: 10000000
+    term_in_years: 20
+    table_rating: 0
+    accelerated_underwriting: false
+25:
+  100000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 15.14
+    annual_premium: 175.0
+    name: Select-a-Term - 25 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 42.73
+    annual_premium: 513.0
+    name: ROP Select-a-Term - 25 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 14.62
+    annual_premium: 170.0
+    name: Trendsetter Super 25
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 100000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 13.65
+    annual_premium: 155.99
+    name: OPTerm 25 - 25 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 14.46
+    annual_premium: 168.11
+    name: Custom Choice UL - 25 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 15.96
+    annual_premium: 183.41
+    name: T-25/25 - 25 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 100000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: true
+  250000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 22.620000000000005
+    annual_premium: 261.5
+    name: Select-a-Term - 25 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 68.1
+    annual_premium: 817.5
+    name: ROP Select-a-Term - 25 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 23.65
+    annual_premium: 275.0
+    name: Trendsetter Super 25
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 250000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 26.88
+    annual_premium: 312.5
+    name: Trendsetter LB 25
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 250000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 21.44
+    annual_premium: 244.99
+    name: OPTerm 25 - 25 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 22.64
+    annual_premium: 263.26
+    name: Custom Choice UL - 25 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 27.3
+    annual_premium: 313.79
+    name: T-25/25 - 25 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 250000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: true
+  500000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 38.84
+    annual_premium: 449.0
+    name: Select-a-Term - 25 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 119.54
+    annual_premium: 1435.0
+    name: ROP Select-a-Term - 25 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 40.42
+    annual_premium: 470.0
+    name: Trendsetter Super 25
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 500000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 46.01
+    annual_premium: 535.0
+    name: Trendsetter LB 25
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 500000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 36.31
+    annual_premium: 414.99
+    name: OPTerm 25 - 25 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 38.05
+    annual_premium: 442.49
+    name: Custom Choice UL - 25 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 42.12
+    annual_premium: 484.1
+    name: T-25/25 - 25 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 500000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: true
+  1000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 70.41
+    annual_premium: 814.0
+    name: Select-a-Term - 25 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 239.07
+    annual_premium: 2870.0
+    name: ROP Select-a-Term - 25 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 73.96
+    annual_premium: 860.0
+    name: Trendsetter Super 25
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 1000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 89.44
+    annual_premium: 1040.0
+    name: Trendsetter LB 25
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 1000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 65.62
+    annual_premium: 749.99
+    name: OPTerm 25 - 25 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 69.54
+    annual_premium: 808.72
+    name: Custom Choice UL - 25 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 74.28
+    annual_premium: 853.8
+    name: T-25/25 - 25 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 1000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  5000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 329.91
+    annual_premium: 3814.0
+    name: Select-a-Term - 25 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 1195.36
+    annual_premium: 14350.0
+    name: ROP Select-a-Term - 25 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 363.78
+    annual_premium: 4230.0
+    name: Trendsetter Super 25
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 5000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 307.12
+    annual_premium: 3509.95
+    name: OPTerm 25 - 25 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 347.7
+    annual_premium: 4043.6
+    name: Custom Choice UL - 25 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 350.52
+    annual_premium: 4029.0
+    name: T-25/25 - 25 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 5000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  10000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 654.29
+    annual_premium: 7564.0
+    name: Select-a-Term - 25 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 2390.71
+    annual_premium: 28700.0
+    name: ROP Select-a-Term - 25 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 724.98
+    annual_premium: 8430.0
+    name: Trendsetter Super 25
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 10000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 733.58
+    annual_premium: 8530.0
+    name: Trendsetter Super 25  (over 10m)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 10000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 608.99
+    annual_premium: 6959.9
+    name: OPTerm 25 - 25 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 695.4
+    annual_premium: 8087.2
+    name: Custom Choice UL - 25 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 695.83
+    annual_premium: 7998.0
+    name: T-25/25 - 25 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 10000000
+    term_in_years: 25
+    table_rating: 0
+    accelerated_underwriting: false
+30:
+  100000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 16.78
+    annual_premium: 194.0
+    name: Select-a-Term - 30 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 35.15
+    annual_premium: 422.0
+    name: ROP Select-a-Term - 30 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 18.29
+    annual_premium: 209.0
+    name: Term Essential 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 100000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 34.73
+    annual_premium: 416.78
+    name: PruLife Return of Premium Term 30
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 100000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 15.48
+    annual_premium: 180.0
+    name: Trendsetter Super 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 100000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 15.51
+    annual_premium: 177.2
+    name: TermAccel (R) Level Term 30  (eApp ONLY)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 100000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 15.49
+    annual_premium: 176.99
+    name: OPTerm 30 - 30 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 17.37
+    annual_premium: 198.5
+    name: Term Life Answers 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 16.3
+    annual_premium: 189.53
+    name: Custom Choice UL - 30 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 17.33
+    annual_premium: 199.16
+    name: T-30/30 - 30 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 100000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 19.05
+    annual_premium: 214.0
+    name: 30-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 100000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  250000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 25.21
+    annual_premium: 291.5
+    name: Select-a-Term - 30 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 60.81
+    annual_premium: 730.0
+    name: ROP Select-a-Term - 30 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 26.47
+    annual_premium: 302.5
+    name: Term Essential 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 56.29
+    annual_premium: 675.68
+    name: PruLife Return of Premium Term 30
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 27.09
+    annual_premium: 315.0
+    name: Trendsetter Super 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 30.96
+    annual_premium: 360.0
+    name: Trendsetter LB 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 25.559999999999995
+    annual_premium: 292.0
+    name: TermAccel (R) Level Term 30  (eApp ONLY)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 38.18
+    annual_premium: 436.25
+    name: LifeElement (R) Level Term 30 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 25.51
+    annual_premium: 291.49
+    name: OPTerm 30 - 30 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 27.78
+    annual_premium: 317.5
+    name: Term Life Answers 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 26.09
+    annual_premium: 298.13
+    name: 30-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 25.64
+    annual_premium: 298.1
+    name: Custom Choice UL - 30 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 27.59
+    annual_premium: 317.08
+    name: T-30/30 - 30 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 30.71
+    annual_premium: 345.0
+    name: 30-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 250000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  500000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 43.6
+    annual_premium: 504.0
+    name: Select-a-Term - 30 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 99.96
+    annual_premium: 1200.0
+    name: ROP Select-a-Term - 30 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 45.5
+    annual_premium: 520.0
+    name: Term Essential 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 95.52
+    annual_premium: 1146.6
+    name: PruLife Return of Premium Term 30
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 47.73
+    annual_premium: 555.0
+    name: Trendsetter Super 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 55.04
+    annual_premium: 640.0
+    name: Trendsetter LB 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 43.98
+    annual_premium: 502.5
+    name: TermAccel (R) Level Term 30  (eApp ONLY)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 53.47
+    annual_premium: 611.0
+    name: LifeElement (R) Level Term 30 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 43.97
+    annual_premium: 502.49
+    name: OPTerm 30 - 30 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 47.47
+    annual_premium: 542.5
+    name: Term Life Answers 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 45.61
+    annual_premium: 521.27
+    name: 30-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 43.74
+    annual_premium: 508.65
+    name: Custom Choice UL - 30 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 46.06
+    annual_premium: 529.41
+    name: T-30/30 - 30 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 54.74
+    annual_premium: 615.0
+    name: 30-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 48.4
+    annual_premium: 550.0
+    name: Advantage Elite Select Life - 30 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 500000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  1000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 79.93
+    annual_premium: 924.0
+    name: Select-a-Term - 30 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 199.92
+    annual_premium: 2400.0
+    name: ROP Select-a-Term - 30 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 83.56
+    annual_premium: 955.0
+    name: Term Essential 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 178.15
+    annual_premium: 2138.5
+    name: PruLife Return of Premium Term 30
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 87.72
+    annual_premium: 1020.0
+    name: Trendsetter Super 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 107.5
+    annual_premium: 1250.0
+    name: Trendsetter LB 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 99.06
+    annual_premium: 1132.0
+    name: LifeElement (R) Level Term 30 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 80.85
+    annual_premium: 923.99
+    name: OPTerm 30 - 30 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 86.84
+    annual_premium: 992.5
+    name: Term Life Answers 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 82.07
+    annual_premium: 937.91
+    name: 30-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: true
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 80.58
+    annual_premium: 937.18
+    name: Custom Choice UL - 30 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 80.3
+    annual_premium: 923.0
+    name: T-30/30 - 30 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 97.46
+    annual_premium: 1095.0
+    name: 30-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 88.44
+    annual_premium: 1005.0
+    name: Advantage Elite Select Life - 30 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: brighthouse
+    carrier_name: Brighthouse Life Insurance Company
+    monthly_premium: 113.31
+    annual_premium: 1259.0
+    name: Guaranteed Level Term 30
+    return_of_premium: false
+    underwriting_class: preferred
+    health_category: Elite Nonsmoker
+    coverage_amount: 1000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  5000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 377.49
+    annual_premium: 4364.0
+    name: Select-a-Term - 30 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 999.6
+    annual_premium: 12000.0
+    name: ROP Select-a-Term - 30 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 388.06
+    annual_premium: 4435.0
+    name: Term Essential 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 890.7
+    annual_premium: 10692.5
+    name: PruLife Return of Premium Term 30
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 436.88
+    annual_premium: 5080.0
+    name: Trendsetter Super 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 463.76
+    annual_premium: 5300.0
+    name: LifeElement (R) Level Term 30 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 383.25
+    annual_premium: 4379.95
+    name: OPTerm 30 - 30 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 412.34
+    annual_premium: 4712.5
+    name: Term Life Answers 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 384.09
+    annual_premium: 4389.55
+    name: 30-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 402.9
+    annual_premium: 4685.9
+    name: Custom Choice UL - 30 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 380.63
+    annual_premium: 4375.0
+    name: T-30/30 - 30 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 460.58
+    annual_premium: 5175.0
+    name: 30-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 421.96
+    annual_premium: 4795.0
+    name: Advantage Elite Select Life - 30 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: brighthouse
+    carrier_name: Brighthouse Life Insurance Company
+    monthly_premium: 541.71
+    annual_premium: 6019.0
+    name: Guaranteed Level Term 30
+    return_of_premium: false
+    underwriting_class: preferred
+    health_category: Elite Nonsmoker
+    coverage_amount: 5000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  10000000:
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 749.44
+    annual_premium: 8664.0
+    name: Select-a-Term - 30 Year  (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: aig
+    carrier_name: American General Life Insurance Company
+    monthly_premium: 1999.2
+    annual_premium: 24000.0
+    name: ROP Select-a-Term - 30 Year
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 768.69
+    annual_premium: 8785.0
+    name: Term Essential 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: prudential
+    carrier_name: Pruco Life Insurance Company
+    monthly_premium: 1781.38
+    annual_premium: 21385.0
+    name: PruLife Return of Premium Term 30
+    return_of_premium: true
+    underwriting_class: preferred_plus
+    health_category: Preferred Best
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 871.18
+    annual_premium: 10130.0
+    name: Trendsetter Super 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: transamerica
+    carrier_name: Transamerica Life Insurance Company
+    monthly_premium: 905.58
+    annual_premium: 10530.0
+    name: Trendsetter Super 30  (over 10m)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Smoker
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: lincoln-national-life
+    carrier_name: Lincoln National Life Insurance Company
+    monthly_premium: 919.63
+    annual_premium: 10510.0
+    name: LifeElement (R) Level Term 30 (2017)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-tobacco
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: banner-life
+    carrier_name: Banner Life Insurance Company
+    monthly_premium: 761.24
+    annual_premium: 8699.9
+    name: OPTerm 30 - 30 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: mutual-of-omaha
+    carrier_name: United of Omaha Life Insurance Company
+    monthly_premium: 819.22
+    annual_premium: 9362.5
+    name: Term Life Answers 30
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: principal-financial-group
+    carrier_name: Principal National Life Insurance Co
+    monthly_premium: 761.61
+    annual_premium: 8704.1
+    name: 30-Year Term (2016)
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Super Preferred non-tobacco
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: protective
+    carrier_name: Protective Life Insurance Company
+    monthly_premium: 805.8
+    annual_premium: 9371.8
+    name: Custom Choice UL - 30 Year No Lapse
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Select Preferred Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: sbli
+    carrier_name: Savings Bank Life Insurance Co of MA
+    monthly_premium: 756.03
+    annual_premium: 8690.0
+    name: T-30/30 - 30 Year Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Plus Non-Nicotine
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: accordia
+    carrier_name: Accordia Life and Annuity Company
+    monthly_premium: 914.48
+    annual_premium: 10275.0
+    name: 30-Year Level Premium Term
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Premier Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: minnesota
+    carrier_name: Minnesota Life Insurance Company
+    monthly_premium: 835.56
+    annual_premium: 9495.0
+    name: Advantage Elite Select Life - 30 Year
+    return_of_premium: false
+    underwriting_class: preferred_plus
+    health_category: Preferred Select Non-Tobacco
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
+  - carrier: brighthouse
+    carrier_name: Brighthouse Life Insurance Company
+    monthly_premium: 1077.21
+    annual_premium: 11969.0
+    name: Guaranteed Level Term 30
+    return_of_premium: false
+    underwriting_class: preferred
+    health_category: Elite Nonsmoker
+    coverage_amount: 10000000
+    term_in_years: 30
+    table_rating: 0
+    accelerated_underwriting: false
